@@ -5,7 +5,7 @@ A List of calculator programs that are often used by Hong Kong students in math,
 **The content of this repository is ONLY applicable to calculators that is approved by the Hong Kong Examinations and Assessment Authority.**
 
 ## 列表 List
-### [Mathematics](目錄-table-of-contents)
+### Mathematics
   - 一元二次方程 Quadratic
 
     `?→A:?→B:?→C:B²-4AC→D:-B÷(2A→X:-D÷4A→Y:(√(D)-B)÷(2A◢(-√(D)-B)÷(2A`
