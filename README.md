@@ -1,3 +1,3 @@
 # CasioProgramList
-A simple list only for Casio Calculators that is recognized by the Hong Kong Examinations and Assessment Authority.
-一個簡單的、為香港學生服務的 Casio 計數機 Program 列表。
+香港學生在數學、物理和化學科常常會應用的計數機 Program 列表。
+A List of calculator programs that are often used by Hong Kong students in math, physics and chemistry.
